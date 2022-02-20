@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cab312-0503-4c76-9046-335643a788ae" name="Default Changelist" comment="" />
+    <list default="true" id="a2cab312-0503-4c76-9046-335643a788ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/Apollo-demo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-adminservice-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-configservice-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-portal-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo-PRO.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo-PRO.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApolloPortal.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/server/runApolloPortal.sh" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,11 +44,17 @@
     </option>
   </component>
   <component name="ProjectId" id="25KFRoSEGD4fhfeS9K7WgF13oMU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/server" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\IDEA_workspace\apollo-quickstart\src\main\server" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,11 +100,22 @@
       <option name="presentableId" value="Default" />
       <updated>1645267865506</updated>
       <workItem from="1645267867095" duration="3089000" />
-      <workItem from="1645348298235" duration="1275000" />
+      <workItem from="1645348298235" duration="1667000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
