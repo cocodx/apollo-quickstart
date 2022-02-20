@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2cab312-0503-4c76-9046-335643a788ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/Apollo-demo.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-adminservice-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-configservice-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/apollo-portal-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo-PRO.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo-PRO.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApollo.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApolloPortal.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/server/runApolloPortal.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/apollo/learn/GetConfigTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/apollo/learn/GetConfigTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +63,7 @@
     <configuration name="GetConfigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.apollo.learn.GetConfigTest" />
       <module name="apollo-quickstart" />
-      <option name="VM_PARAMETERS" value="-Dapp.id=apollo-quickstart -Denv=DEV -Ddev_meta=http://localhost:8080" />
+      <option name="VM_PARAMETERS" value="-Dapp.id=account-service -Denv=DEV -Ddev_meta=http://localhost:8080" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.apollo.learn.*" />
@@ -100,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645267865506</updated>
       <workItem from="1645267867095" duration="3089000" />
-      <workItem from="1645348298235" duration="1667000" />
+      <workItem from="1645348298235" duration="6751000" />
     </task>
     <servers />
   </component>
